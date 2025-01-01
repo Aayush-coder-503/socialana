@@ -134,7 +134,7 @@ class _HomeState extends State<Home> {
                   "Analyse",
                   style: TextStyle(
                       color: Colors.black,
-                      fontSize: 15,
+                      fontSize: 16,
                       fontWeight: FontWeight.bold),
                 ),
               ),
